@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes
+END
+ShapeDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/ShapeDef.java
+END
+CollidePoly.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/CollidePoly.java
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/Shape.java
+END
+CircleDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/CircleDef.java
+END
+ShapeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/ShapeType.java
+END
+CircleShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/CircleShape.java
+END
+EdgeShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/EdgeShape.java
+END
+EdgeChainDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/EdgeChainDef.java
+END
+PolygonDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/PolygonDef.java
+END
+PolygonShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/PolygonShape.java
+END
+PointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/PointDef.java
+END
+PointShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/PointShape.java
+END
+CollideCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/shapes/CollideCircle.java
+END

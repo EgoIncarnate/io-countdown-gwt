@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts
+END
+PolyContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/PolyContact.java
+END
+ContactConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactConstraint.java
+END
+ContactRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactRegister.java
+END
+PolyAndCircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/PolyAndCircleContact.java
+END
+ContactPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactPoint.java
+END
+ContactCreateFcn.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactCreateFcn.java
+END
+PolyAndEdgeContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/PolyAndEdgeContact.java
+END
+ContactConstraintPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactConstraintPoint.java
+END
+PointAndCircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/PointAndCircleContact.java
+END
+CircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/CircleContact.java
+END
+ContactEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactEdge.java
+END
+EdgeAndCircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/EdgeAndCircleContact.java
+END
+NullContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/NullContact.java
+END
+ContactSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactSolver.java
+END
+ContactResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/ContactResult.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/Contact.java
+END
+PointAndPolyContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/contacts/PointAndPolyContact.java
+END

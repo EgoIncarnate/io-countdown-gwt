@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/src/gwt/ns/gwtbox2d/client/common
+END
+Vec2.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/common/Vec2.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/gwt/ns/gwtbox2d/client/common/Settings.java
+END
+Vec3.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/common/Vec3.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/Sweep.java
+END
+IViewportTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/IViewportTransform.java
+END
+Mat22.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/common/Mat22.java
+END
+RaycastResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/RaycastResult.java
+END
+Mat33.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/Mat33.java
+END
+Color3f.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/Color3f.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/common/MathUtils.java
+END
+XForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/XForm.java
+END
+OBBViewportTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/common/OBBViewportTransform.java
+END

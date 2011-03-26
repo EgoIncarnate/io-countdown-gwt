@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/src/gwt/ns/gwtbox2d/client/collision
+END
+OBB.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/OBB.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/Segment.java
+END
+ManifoldPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/ManifoldPoint.java
+END
+Bound.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/Bound.java
+END
+SupportsGenericDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/SupportsGenericDistance.java
+END
+ContactID.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/ContactID.java
+END
+BroadPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/BroadPhase.java
+END
+PairCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/PairCallback.java
+END
+SortKeyFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/SortKeyFunc.java
+END
+FilterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/FilterData.java
+END
+Proxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/Proxy.java
+END
+AABB.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/AABB.java
+END
+PairManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/PairManager.java
+END
+BoundValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/BoundValues.java
+END
+Manifold.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/Manifold.java
+END
+Distance.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/Distance.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/Pair.java
+END
+TOI.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/src/gwt/ns/gwtbox2d/client/collision/TOI.java
+END
+Collision.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/Collision.java
+END
+MassData.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/MassData.java
+END
+BufferedPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/BufferedPair.java
+END
+SegmentCollide.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/collision/SegmentCollide.java
+END

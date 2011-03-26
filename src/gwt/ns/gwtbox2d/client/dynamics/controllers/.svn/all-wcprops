@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/controllers
+END
+ControllerDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/controllers/ControllerDef.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/controllers/Controller.java
+END
+ControllerEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/controllers/ControllerEdge.java
+END
+BuoyancyControllerDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/controllers/BuoyancyControllerDef.java
+END
+BuoyancyController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/dynamics/controllers/BuoyancyController.java
+END

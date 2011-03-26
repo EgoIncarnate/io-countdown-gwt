@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob
+END
+BlobStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/BlobStructure.java
+END
+BlobContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/BlobContainer.java
+END
+CircularBlobContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/CircularBlobContainer.java
+END
+SquareLatticeStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/SquareLatticeStructure.java
+END
+BlobPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/BlobPoint.java
+END
+DonutBlobContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/DonutBlobContainer.java
+END
+BlobMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/gwt/ns/gwtbox2d/client/util/blob/BlobMaker.java
+END
